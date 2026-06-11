@@ -1,16 +1,14 @@
-## Hi there 👋
+## 𖹭 Developer Journey<br><br>🖥️ Beginner Developer<br><br>📖 Learning programming and software development<br>I'm a passionate beginner developer who is currently learning the fundamentals of programming and software development.<br><br>💻 Exploring the world of coding one project at a time.<br><br>🚀 Interested in technology, automation, and creating useful applications.<br><br>📚 Always eager to learn new skills, experiment with different tools, and take on new challenges.<br><br>🌱 Currently improving my knowledge in JavaScript, Node.js, and Discord bot development.<br><br>🎯 My goal is to become a better developer every day through practice, consistency, and continuous learning.<br><br>Every line of code is another step forward.<br>⚡ Exploring JavaScript, Node.js & Discord Bot Development<br>Growing through projects, mistakes, and experience<br>Goal: Become a skilled developer by learning something new every day<br>Turning curiosity into code.<br>Every line of code tells a story, and mine is just getting started."I'm a passionate beginner developer who is currently learning the fundamentals of programming and software development.<br>Exploring the world of coding one project at a time.<br>Interested in technology, automation, and creating useful applications.<br>Always eager to learn new skills, experiment with different tools, and take on new challenges.<br>Currently improving my knowledge in JavaScript, Node.js, and Discord bot development.<br>My goal is to become a better developer every day through practice, consistency, and continuous learning.<br>Every line of code is another step forward.
 
-<!--
-**ozxf/ozxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ozxf&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ozxf&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ozxf&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=ozxf&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
