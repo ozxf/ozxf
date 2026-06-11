@@ -36,13 +36,13 @@ Right now, I am actively leveling up my skills to build responsive web applicati
 
 ### Let's Connect
 <p align="left">
-  <a href="https://instagram.com/USERNAME_IG_KAMU" target="_blank">
+  <a href="https://instagram.com/natanzqi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/LINK_SERVER_KAMU" target="_blank">
+  <a href="https://discord.gg/JTsnuDSuAd" target="_blank">
     <img src="https://img.shields.io/badge/Discord_Server-000000?style=for-the-badge&logo=discord&logoColor=00BFFF" alt="Discord Server" />
   </a>
-  <a href="https://LINK_WEBSITE_KAMU" target="_blank">
+  <a href="https://xnatan.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Web_Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
 </p>
