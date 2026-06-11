@@ -1,14 +1,68 @@
-## 𖹭 Developer Journey<br><br>🖥️ Beginner Developer<br><br>📖 Learning programming and software development<br>I'm a passionate beginner developer who is currently learning the fundamentals of programming and software development.<br><br>💻 Exploring the world of coding one project at a time.<br><br>🚀 Interested in technology, automation, and creating useful applications.<br><br>📚 Always eager to learn new skills, experiment with different tools, and take on new challenges.<br><br>🌱 Currently improving my knowledge in JavaScript, Node.js, and Discord bot development.<br><br>🎯 My goal is to become a better developer every day through practice, consistency, and continuous learning.<br><br>Every line of code is another step forward.<br>⚡ Exploring JavaScript, Node.js & Discord Bot Development<br>Growing through projects, mistakes, and experience<br>Goal: Become a skilled developer by learning something new every day<br>Turning curiosity into code.<br>Every line of code tells a story, and mine is just getting started."I'm a passionate beginner developer who is currently learning the fundamentals of programming and software development.<br>Exploring the world of coding one project at a time.<br>Interested in technology, automation, and creating useful applications.<br>Always eager to learn new skills, experiment with different tools, and take on new challenges.<br>Currently improving my knowledge in JavaScript, Node.js, and Discord bot development.<br>My goal is to become a better developer every day through practice, consistency, and continuous learning.<br>Every line of code is another step forward.
+<p align="center">
+    <a href="https://spotify.atzu.ml/now-playing?open">
+        <img src="https://komarev.com/ghpvc/?username=z3ro0k&color=009999&style=for-the-badge" >
+    </a>
+</p> <!-- *(since 22th March 2022)* -->
+<p align="center">
+    <strong>Now Playing</strong> on Spotify
+</p>
+<p align="center">
+    <a href="https://gitify.vercel.app/top-played">
+        <img src="https://atzu.space/api/sp-svg">
+    </a>
+</p>
+
+# Hi there 👋 
+
+Hi my name is **Alexis**, but known as **Atzu** or **z3ro0k** over the internet and I am a 24 year old "fullstack" developer that spends time coding and building websites. 
+I've been coding for around 6 years now and still on the road to learn more.
+
+## Fun Facts
+- I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python
+- I plan to learn in the near future: Rust, Go, C++, and Dart
+- I work on too many stuff and never get them finished
+- You can reach me on [Twitter](https://twitter.com/MrAzurnex), on my [Discord](https://discord.gg/q99CQEP) server, or on [My Website](https://atzu.space)
 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ozxf&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ozxf&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ozxf&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Maintained Projects
+> **Updated since 18/07/2018 - 26/07/2025**
+
+- [Disbull.js](https://www.npmjs.com/package/disbull.js) - **DisBull is a useful module for making it easy to create Discord bots using discords.js v12.**
+- [Swiftcord](https://www.npmjs.com/package/swiftcord) - **Simple & easy to use image manipulation module.**
+- [Spotify Manager](https://www.npmjs.com/package/spotify-manager) - **A Node.js Wrapper for Spotify's Web Api easy to use**
+- [Zycord](https://bots.zycord.xyz/) - **Find the best bot to spice up your Discord server!**
+- [Servitix](https://servitix.space) - **Servitix is the most powerful and customizable ticket bot for your Discord server. Manage support, applications, and more with ease.**
+- [LinkSpark](https://linkspark.lol) - **linkspark.lol is your go-to for modern, feature-rich biolinks. Everything you need — right here.**
+
+## Personal Projects
+> **Updated since 12/07/2025**
+
+- [My Website](https://atzu.space/) 
+- [Apis](https://api.atzu.space)
+- [Spotify Now Playing](https://sp.atzu.space/now-playing)
+- [Cube Game](https://game.atzu.space)
+- [CDN Server](https://cdn.atzu.space/) 
+- [Hastebin](https://hb.atzu.space/)  
+
+<br>
+
+<p align="center">
+    <strong>History</strong> on Spotify
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ozxf&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+    <a href="https://gitify.vercel.app/now-playing?open">
+        <img src="https://atzu.space/api/top-played" >
+    </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Discord Data
+<p align="center">
+    <a href="https://discord.gg/322209371704786945">
+        <img src="https://invidget.switchblade.xyz/322209371704786945" >
+    </a>
+</p>
+<p align="center">
+   <a href="https://discord.com/users/855545331071451166"><img src="https://lanyard.cnrad.dev/api/855545331071451166?hideDiscrim=true&theme=dark" /></a>
+</p>
